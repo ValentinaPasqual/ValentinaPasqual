@@ -1,9 +1,11 @@
+## During August, I take a break from technology.
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentinaPasqual&theme=graywhite" />
   </a>
 </div>
 
+## I use JS more than I was expecting | HTML makes me struggle
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValentinaPasqual&theme=graywhite" />
@@ -13,6 +15,7 @@
   </a>
 </div>
 
+## Not a pro user | Still working at not work after 7pm
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValentinaPasqual&theme=graywhite" />
