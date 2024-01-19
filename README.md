@@ -24,5 +24,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ValentinaPasqual&theme=light&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ValentinaPasqual&theme=light)](https://git.io/streak-stats)
 
