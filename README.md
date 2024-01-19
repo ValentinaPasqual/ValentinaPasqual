@@ -15,7 +15,7 @@
   </a>
 </div>
 
-## Not a pro user | Still working on ceasing work at 7.
+## Not a pro user | Still working on ceasing work at 7
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValentinaPasqual&theme=graywhite" />
