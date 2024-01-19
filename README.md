@@ -37,6 +37,9 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+[![GitHub Trends SVG](https://api.githubtrends.io/ValentinaPasqual/svg/avgupta456/langs)](https://githubtrends.io)
+
+
 
 
 
