@@ -46,7 +46,7 @@ Here are some ideas to get you started:
     <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValentinaPasqual&theme=graywhite" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?)http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValentinaPasqual&theme=graywhite" />
+    <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValentinaPasqual&theme=graywhite"/>
   </a>
 </div>
 
