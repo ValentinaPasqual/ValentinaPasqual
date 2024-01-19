@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ValentinaPasqual&theme=light)](https://git.io/streak-stats) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinaPasqual&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinaPasqual&show_icons=true&theme=radical) -->
 
 
