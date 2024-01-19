@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ValentinaPasqual&theme=transparent&hide_rank=true&show_icons=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ValentinaPasqual&theme=vue&hide_rank=true&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ValentinaPasqual&layout=compact&theme=transparent&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ValentinaPasqual&layout=compact&theme=vue&langs_count=8&card_width=320" />
   </a>
 </div>
 
