@@ -23,3 +23,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ValentinaPasqual&theme=dark&background=000000)](https://git.io/streak-stats)
+
