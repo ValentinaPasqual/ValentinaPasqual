@@ -1,5 +1,5 @@
 <div align="center">
-  ## During August, I take a break from technology
+  <h1>During August, I take a break from technology</h1>
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentinaPasqual&theme=graywhite" />
   </a>
