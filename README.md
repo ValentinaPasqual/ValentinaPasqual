@@ -5,7 +5,8 @@
   </a>
 </div>
 
-## I use JS more than expected | HTML makes me struggle
+| I use JS more than expected | HTML makes me struggle |
+|:----------------------------:|:-----------------------:|
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValentinaPasqual&theme=graywhite" />
