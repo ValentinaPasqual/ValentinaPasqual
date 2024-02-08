@@ -1,6 +1,7 @@
 <div align="center">
 
   <h1>During August, I usually take a break from technology</h1>
+  **_NOTE:_**  The note content.
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentinaPasqual&theme=graywhite" />
   </a>
