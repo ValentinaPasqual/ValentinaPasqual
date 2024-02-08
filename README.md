@@ -1,9 +1,6 @@
 <div align="center">
-<div style="position: relative; background-color: #f9f9f9; border-radius: 10px; padding: 20px; margin: 20px; max-width: 400px;">
-  <h1>During August, I usually take a break from technology</h1>
-  <div style="content: ''; position: absolute; top: 100%; left: 50%; margin-left: -15px; border-width: 15px; border-style: solid; border-color: #f9f9f9 transparent transparent transparent;"></div>
-</div>
 
+  <h1>During August, I usually take a break from technology</h1>
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentinaPasqual&theme=graywhite" />
   </a>
