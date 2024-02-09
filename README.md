@@ -2,9 +2,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentinaPasqual&theme=graywhite" />
   </a>
-<blockquote>**_NOTE:_**  *During August, I usually take a break from technology*</blockquote>
+<blockquote style="background-color:black; color:white"><b>NOTE</b>:  <i>During August, I usually take a break from technology</i></blockquote>
 </div>
-
 
 ## I use JS more than expected | It seems that HTML makes me struggle
 <div align="center">
