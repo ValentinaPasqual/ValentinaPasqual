@@ -2,7 +2,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentinaPasqual&theme=graywhite" />
   </a>
-> **_NOTE:_**  *During August, I usually take a break from technology*
+<blockquote>**_NOTE:_**  *During August, I usually take a break from technology*</blockquote>
 </div>
 
 
