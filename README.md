@@ -10,10 +10,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValentinaPasqual&theme=graywhite" />
   </a>
-  <blockquote style="background-color:black; color:white"><b>NOTE</b>:  <i>I use JS more than expected</i></blockquote>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValentinaPasqual&theme=graywhite"/>
   </a>
+  <blockquote style="background-color:black; color:white"><b>NOTE</b>:  <i>I use JS more than expected</i></blockquote>
   <blockquote style="background-color:black; color:white"><b>NOTE</b>:  <i>It seems that HTML makes me struggle</i></blockquote>
 
 </div>
