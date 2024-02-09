@@ -2,8 +2,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentinaPasqual&theme=graywhite" />
   </a>
-</div>
 > **_NOTE:_**  *During August, I usually take a break from technology*
+</div>
+
 
 ## I use JS more than expected | It seems that HTML makes me struggle
 <div align="center">
