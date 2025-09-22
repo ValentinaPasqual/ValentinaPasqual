@@ -12,7 +12,7 @@
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValentinaPasqual&theme=graywhite"/>
   </a>
-  <blockquote style="background-color:black; color:white"><b>NOTE</b>: <i>It seems that HTML makes me struggle the most</i></blockquote>
+  <blockquote style="background-color:black; color:white"><b>NOTE</b>: <i>It seems that JS makes me struggle the most</i></blockquote>
 </div>
 
 <div align="center">
