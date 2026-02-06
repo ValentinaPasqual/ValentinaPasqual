@@ -2,7 +2,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentinaPasqual&theme=graywhite" />
   </a>
-<blockquote style="background-color:black; color:white"><b>NOTE</b>:  <i>During August, I usually take a break from technology</i></blockquote>
+<blockquote style="background-color:black; color:white"><b>NOTE</b>:  <i>As the chart politely refuses to be stable, it displays a rather erratic trend.</i></blockquote>
 </div>
 
 <div align="center">
