@@ -22,7 +22,7 @@
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ValentinaPasqual&theme=graywhite"/>
   </a>  
-  <blockquote style="background-color:black; color:white"><b>NOTE</b>: <i>I am still working on ceasing work at 7</i></blockquote>
+  <blockquote style="background-color:black; color:white"><b>NOTE</b>: <i>I am still making progress towards the theoretical concept of stopping work at 7.</i></blockquote>
 </div>
 
 
